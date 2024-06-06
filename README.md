@@ -1,2 +1,2 @@
-# capstoneproject
-capstone project 34
+# capstone-project
+capstone project
